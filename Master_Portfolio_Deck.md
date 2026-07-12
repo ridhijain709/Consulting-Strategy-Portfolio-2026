@@ -2,56 +2,23 @@
 marp: true
 theme: default
 paginate: true
-backgroundColor: #0a0a0a
-color: #f0f0f0
+backgroundColor: #ffffff
+color: #333333
 style: |
-  section {
-    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-    padding: 40px 60px;
-  }
-  h1 {
-    color: #7c3aed;
-    font-size: 2.2em;
-    border-bottom: 3px solid #7c3aed;
-    padding-bottom: 10px;
-  }
-  h2 {
-    color: #a78bfa;
-    font-size: 1.6em;
-  }
-  strong {
-    color: #7c3aed;
-  }
-  table {
-    font-size: 0.8em;
-    width: 100%;
-  }
-  th {
-    background-color: #7c3aed;
-    color: white;
-    padding: 8px;
-  }
-  td {
-    padding: 6px 8px;
-    border-bottom: 1px solid #333;
-  }
-  section.lead h1 {
-    font-size: 3em;
-    text-align: center;
-    border: none;
-  }
-  section.lead h2 {
-    text-align: center;
-    color: #a78bfa;
-    font-size: 1.2em;
-  }
-  blockquote {
-    border-left: 4px solid #7c3aed;
-    padding-left: 20px;
-    font-style: italic;
-    color: #ccc;
-  }
+  section { font-family: 'Helvetica Neue', Arial, sans-serif; padding: 50px 70px; }
+  h1 { color: #002D72; font-size: 2.5em; border-bottom: 2px solid #002D72; padding-bottom: 12px; font-weight: 700; }
+  h2 { color: #0056b3; font-size: 1.6em; font-weight: 600; margin-top: 20px; }
+  strong { color: #002D72; }
+  table { font-size: 0.9em; width: 100%; border-collapse: collapse; margin-top: 20px; }
+  th { background-color: #002D72; color: #ffffff; padding: 12px; text-align: left; font-weight: 600; }
+  td { padding: 10px 12px; border-bottom: 1px solid #e0e0e0; }
+  section.lead h1 { font-size: 3.5em; text-align: center; border: none; letter-spacing: -1px; }
+  section.lead h2 { text-align: center; color: #555555; font-size: 1.3em; font-weight: 400; }
+  blockquote { border-left: 5px solid #002D72; padding-left: 25px; font-style: italic; color: #666; margin: 25px 0; background-color: #f8f9fa; padding: 20px; border-radius: 4px; }
+  ul li { margin-bottom: 12px; }
 ---
+
+
 
 <!-- _class: lead -->
 
@@ -569,6 +536,7 @@ Conduct a rigorous margin audit of Fashion. If it cannot reach 5% EBITDA within 
 
 ---
 
+![bg left:40%](C:/Users/ridhi/.gemini/antigravity/brain/0507e13d-84ea-41b3-b379-b4c7d413d591/growth_bar_chart_1783852534483.png)
 # The Zero-CAC Moat
 Why Blinkit beats Zepto structurally:
 
@@ -629,6 +597,7 @@ Maintain 45% dominance against aggressive expansion from Swiggy Instamart and Fl
 
 ---
 
+![bg left:40%](C:/Users/ridhi/.gemini/antigravity/brain/0507e13d-84ea-41b3-b379-b4c7d413d591/market_donut_chart_1783852557913.png)
 # Swiggy One: The Prime Play
 To win, Swiggy must lock users into an ecosystem.
 
@@ -676,6 +645,7 @@ Navigate public market expectations by showing a clear path to profitability for
 
 ---
 
+![bg left:40%](C:/Users/ridhi/.gemini/antigravity/brain/0507e13d-84ea-41b3-b379-b4c7d413d591/ecosystem_nodes_1783852546947.png)
 # The Conglomerate Advantage
 1. **Hyperpure (B2B):** Secures the restaurant supply chain. By controlling ingredient supply, Zomato ensures restaurant loyalty.
 2. **Blinkit (Quick Commerce):** The new growth engine. Reaches profitability through Zomato's massive user base.
@@ -690,4 +660,77 @@ Scale Hyperpure to become the default supplier for all urban restaurants in Indi
 Grow 'District' to rival BookMyShow. The 'going out' market is a blue ocean for cross-selling Zomato's dining users.
 ### 3. Deepinder's Decentralization
 Run each vertical as an independent company to maintain agility while sharing data backend.
+
+
+---
+
+
+
+<!-- _class: lead -->
+# RAZORPAY
+## Strategy Consulting Report
+### The "Financial Operating System" Strategy
+
+**Prepared by Ridhi Jain** | July 2026
+
+---
+
+# Executive Summary
+**Core Thesis:** Razorpay is transitioning from a highly commoditized Payment Gateway into an indispensable, high-margin **B2B Financial Operating System**.
+
+| Metric | Value |
+|--------|-------|
+| Valuation | $7.5 Billion+ |
+| Core Product | Payment Gateway (1-3% fee) |
+| Growth Engine | RazorpayX (Banking/SaaS) |
+| Moat | Ecosystem Lock-in |
+
+**Recommendation:** Accelerate the cross-selling of RazorpayX Payroll and Capital to existing gateway merchants. The payment gateway is merely a customer acquisition tool; the real profit is in software and lending.
+
+---
+
+# The Commoditization Problem
+**The Payment Gateway Trap:**
+The UPI revolution in India (zero MDR) forced payment gateways to operate on razor-thin margins. Payments are now a commodity. If a competitor offers a 0.1% lower fee, merchants switch.
+
+**Razorpay's Solution:**
+Don't fight a price war on payments. Instead, use payments as a **distribution engine** to acquire merchants, then cross-sell them high-margin B2B SaaS.
+
+---
+
+![bg left:40%](C:/Users/ridhi/.gemini/antigravity/brain/0507e13d-84ea-41b3-b379-b4c7d413d591/ecosystem_nodes_1783852546947.png)
+# The Revenue Ecosystem (B2B SaaS Pivot)
+
+| Product | Revenue Model | Margin Profile | Purpose |
+|---------|---------------|----------------|---------|
+| **Payment Gateway** | Transaction Fees | Low | Customer Acquisition |
+| **Razorpay POS** | In-store swipes | Low-Med | Omnichannel presence |
+| **RazorpayX** | Subscriptions / Payout fees | High | Revenue stability |
+| **Razorpay Payroll** | SaaS per-employee fee | Very High | Ultimate Lock-in |
+
+**The Strategy:** Once a merchant integrates Razorpay for payments, RazorpayX for vendor payouts, and Razorpay Payroll for employee salaries... they **never leave**.
+
+---
+
+# VRIO Analysis
+| Resource | V | R | I | O | Verdict |
+|----------|---|---|---|---|---------|
+| Payment Gateway Tech | ✅ | ❌ | ❌ | ✅ | Parity |
+| API Developer Experience | ✅ | ✅ | ❌ | ✅ | Temporary Advantage |
+| **Unified Data Graph** | ✅ | ✅ | ✅ | ✅ | **Sustained Moat** |
+
+**The Data Advantage:** Because Razorpay sees a merchant's incoming revenue (Gateway) and outgoing expenses (RazorpayX), they have the ultimate data graph to underwrite working capital loans with near-zero risk.
+
+---
+
+# Strategic Recommendations
+### 1. Scale Razorpay Capital
+Leverage the proprietary data graph to offer instant, pre-approved working capital loans to SME merchants.
+### 2. Penetrate Offline Retail (POS)
+Integrate the Ezetap acquisition seamlessly to capture the 80% of Indian retail transactions that still happen offline.
+### 3. IPO Positioning
+Position the upcoming IPO not as a "Payments Company" (low multiple), but as a "B2B Financial SaaS Platform" (high multiple).
+
+
+---
 
